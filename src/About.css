@@ -1,0 +1,22 @@
+
+section {
+    margin: 50px 0;
+}
+
+h2 {
+    text-align: left;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.card {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
