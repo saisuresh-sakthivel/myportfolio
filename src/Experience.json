@@ -3,29 +3,34 @@
     "position": "Staff Software Engineer",
     "startDate": "2020-03-20",
     "endDate": "Present",
+    "id":1,
     "description": ["Developed high performing micro frontend products from scratch which has 600M pageviews/day on a very good day.", "Performance & Page optimization – Increased the page performance by 60% by introducing lazy loading, code optimization and preconnect.", "Lead and upgraded libraries in our legacy products within 2 months to pull in 1.5M deal for high profile client.", "Created both JSON-LD and Microdata for enabling SEO for our products which can be choose by client based on their business needs.", "Developed a roadmap by designing a prototype for the 2.0 version of our legacy product, utilizing React and TypeScript.", "Onboarded and groomed 17+ engineers and made them productive in 5 weeks."]
 },{
     "company": "[24]7.ai",
     "position": "Technical Lead",
     "startDate": "July 2014",
     "endDate": "March 2020",
+    "id":2,
     "description": ["Developed products which helps chat agents to interact with customer’s customers.", "Successfully developed and delivered multiple, simultaneous projects, serving as team lead and technical lead for complex, deadline-driven operations."]
 },{
     "company": "Indecomm Global Services",
     "position": "Senior Consultant",
     "startDate": "May 2013",
     "endDate": "July 2014",
+    "id":3,
     "description": ["Built end to end frontend UI for the chatbot. Created reusable components using vanilla javascript for chatbots which reduced the delivery time from 4 weeks to 2 weeks.", "Worked at [24]7.ai as a consultant and later become a permanent employee."]
 },{
     "company": "Verismo Networks",
     "position": "Senior Software Engineer",
     "startDate": "August 2010",
     "endDate": "April 2013",
+    "id":4,
     "description": ["DevelopedendtoendUIforTVguideproduct for Set-top box.", "Developed UI for listing content of the flash drive using Flash technology."]
 },{
     "company": "Nextwave Multimedia",
     "position": "Game Developer",
     "startDate": "December 2006",
     "endDate": "September 2010",
+    "id":5,
     "description": ["Developed more than 32 games using flash and lingo technology.", "Developed rich logical games which stood top in the user played list."]
 }]

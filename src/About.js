@@ -10,7 +10,7 @@ const About = () => {
         <div>
           <img className="logo" src={logo} alt="Sai Suresh Sakthivel" />
         </div>
-        <div>
+        <div className="project-card">
           <ul>
             <li>
               <strong>Creative and self-starting team leader:</strong> 15 years

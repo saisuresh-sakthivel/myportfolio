@@ -1,4 +1,11 @@
 
+*,*::after,*::before {
+  box-sizing: border-box;
+}
+body{
+  background:url('img/bg.jpg') no-repeat center center/cover;
+  color: #FFF;
+}
 .container {
   width: 80%;
   margin: 0 auto;
