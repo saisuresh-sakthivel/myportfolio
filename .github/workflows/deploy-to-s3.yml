@@ -2,11 +2,11 @@ name: Deploy React App to S3
 
 on:
   workflow_dispatch:
-  inputs:
-    environment:
-      description: 'Environment to deploy to'
-      required: true
-      default: 'prod'
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'prod'
   push:
     branches:
       - main  # Deploy when changes are pushed to the main branch
