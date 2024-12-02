@@ -1,5 +1,5 @@
 import React from "react";
-import "./Project.css";
+import "./Experience.css";
 import exp from "./Experience.json";
 const Experience = () => {
   const companyExp = exp.map((item,index) => {

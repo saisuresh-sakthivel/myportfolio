@@ -9,7 +9,6 @@
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    min-width: 300px;
 }
 
 .project-card h3 {
@@ -23,3 +22,9 @@
 .project-card.type2 {
     flex: 1;
 }
+
+@media (max-width: 768px) {
+    .project-card.type2 {
+        flex: 0 0 100%;
+    }
+  }

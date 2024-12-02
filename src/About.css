@@ -24,3 +24,12 @@ h2 {
     width: 200px;
     height: auto;
 }
+
+@media (max-width: 768px) {
+    .card {
+        flex-direction: column;
+    }
+    .logo{
+        width: 100px;
+    }
+  }
