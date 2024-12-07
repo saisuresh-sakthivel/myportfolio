@@ -5,7 +5,6 @@ import logo from "./img/portfolio.jpeg";
 const About = () => {
   return (
     <section id="about" className="container">
-      <h2>About</h2>
       <div className="card">
         <div>
           <img className="logo" src={logo} alt="Sai Suresh Sakthivel" />
