@@ -3,6 +3,10 @@ section {
     margin: 50px 0;
 }
 
+a{
+    color: #FFF;
+}
+
 h2 {
     text-align: left;
     margin-bottom: 30px;
