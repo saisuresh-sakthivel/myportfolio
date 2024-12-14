@@ -10,10 +10,10 @@ a{
 h2 {
     text-align: left;
     margin-bottom: 30px;
-    background: #333;
     width: fit-content;
     padding: 20px;
     border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .card {
