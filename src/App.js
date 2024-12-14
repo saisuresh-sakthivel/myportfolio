@@ -13,7 +13,7 @@ function App() {
       <About />
       <div class="custom-line"></div>
       <Experience />
-      <div class="custom-line"></div>ß
+      <div class="custom-line"></div>
       <Contact />
     </div>
   );
